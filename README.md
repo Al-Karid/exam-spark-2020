@@ -11,7 +11,7 @@ Examen pratique de ML avec Spark/Sklearn
 | **METHODES NON LINERAIRES**            | **SCORE (MSE)** |
 | forets aléatoires                      | 9.15            |
 | SVM                                    | 55.47           |
-| **METHODES NON LINERAIRES **GRIDSEARCH | **SCORE (MSE)** |
+| **METHODES NON LINERAIRES** GRIDSEARCH | **SCORE (MSE)** |
 | forets aléatoires                      | 8.29            |
 | SVM                                    | 16.13           |
 
