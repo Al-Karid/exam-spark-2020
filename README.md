@@ -3,7 +3,7 @@ Examen pratique de ML avec Spark/Sklearn
 
 <hr>
 
-1. RESULTATS EXERCICE 1, les scores en test
+1. RESULTATS **EXERCICE 1**, les scores en test
 
 | METHODE DE REGRESSION                  | SCORE (MSE)     |
 | -------------------------------------- | --------------- |
@@ -21,7 +21,7 @@ Le meilleur model est random forest en avec les parametres de grid search suivan
 
 <hr>
 
-2. RESULTATS EXERCICE 1, les scores en test
+2. RESULTATS **EXERCICE 2**, les scores en test
 
 | METHODES DE CLASSIFICATION | SCORES (PRECISION, RECALL)    |
 | -------------------------- | ----------------------------- |
